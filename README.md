@@ -171,3 +171,6 @@
     1. 微软，创始人，比尔盖茨[SEP]比尔盖茨于19XX年创建了微软公司
     2. 随机mask三元组中的一元或两元
 
+<p align="center">
+<a href=""><img src="http://112.80.242.54:2333/picture/20220620-144534.png" align="middle" width = "600"></a>
+</p>
