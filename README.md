@@ -40,7 +40,7 @@
 
 社交媒体 股吧和雪球网过去二十年内的所有股民和博主发表的帖子。经清洗后的文本总量约 120GB。示例如图
 
-<div><img src="http://125.74.158.86:2336/image/4.jpg" align="middle" width = "600"></div>
+<div align=center><img src="http://125.74.158.86:2336/image/4.jpg" align="middle" width = "600"></div>
 
 目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至ypgeng@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
