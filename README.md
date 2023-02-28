@@ -27,16 +27,16 @@
 ## 二 、大规模中文金融领域语料库BBT-FinCorpus
 我们经过爬取、清洗和转化得到了大规模中文金融领域语料库 BBT-FinCorpus，包含以下四种语料：
 公司公告 在过去二十年中由中国所有上市公司发布的公司公告。原始数据为 PDF 格式，总大小约为 2TB。使用 PDF 解析器将 PDF 文件转换为文我们件，转换后的文件的总大小为 105GB。示例如图
-<a href=""><img src="" align="middle" width = "600"></a>
+<a href=""><img src="http://125.74.158.86:2336/image/1.jpg" align="middle" width = "600"></a>
 
 研究报告 由券商、投行等投资机构发布的针对宏观经济、板块、行业和个股的研究报告，分析研究对象的现状并展望其未来发展趋势。原始数据为PDF格式，总大小约为1TB。经转化后的文我们件总量约11GB。示例如图
-<a href=""><img src="" align="middle" width = "600"></a>
+<a href=""><img src="http://125.74.158.86:2336/image/2.jpg" align="middle" width = "600"></a>
 
 财经新闻 从新浪财经，腾讯财经，凤凰财经，36Kr 和虎嗅等网站爬取的过去五年内的财经新闻。经清洗后的文我们件总量约 20GB。示例如图
-<a href=""><img src="" align="middle" width = "600"></a>
+<a href=""><img src="http://125.74.158.86:2336/image/3.jpg" align="middle" width = "600"></a>
 
 社交媒体 股吧和雪球网过去二十年内的所有股民和博主发表的帖子。经清洗后的文本总量约 120GB。示例如图
-<a href=""><img src="" align="middle" width = "600"></a>
+<a href=""><img src="http://125.74.158.86:2336/image/4.jpg" align="middle" width = "600"></a>
 
 目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至ypgeng@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
