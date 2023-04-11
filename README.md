@@ -3,7 +3,7 @@
 <a href=""><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpro.statics.techuangyi.com%2F2018%2F06%2F21%2Fzt7NJjTG5r8PsHyY5SS3aw6b.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cm_lfit%2Cw_1366%2Ch_0&refer=http%3A%2F%2Fpro.statics.techuangyi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1650599174&t=cc22a495c7d6574cad47c1060626ef46" align="middle" width = "600"></a>
 </p>
 
-<a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a> <a href="https://www.ssymmetry.com/"><img src="https://img.shields.io/badge/Inc-SuperSymmetry%20Technologies-blue"></a> <a href=""><img src="https://img.shields.io/badge/OS-Linux-green"></a> <a href=""><img src="https://img.shields.io/badge/CEO-Hengkui%20Wu-red" align="right"></a>
+<a href=""><img src="https://img.shields.io/badge/python-3.8+-aff.svg"></a> <a href="https://www.ssymmetry.com/"><img src="https://img.shields.io/badge/Inc-SuperSymmetry%20Technologies-blue"></a> <a href=""><img src="https://img.shields.io/badge/OS-Linux-green"></a>
 
 ## 一、简介
 论文链接：https://arxiv.org/abs/2302.09432
