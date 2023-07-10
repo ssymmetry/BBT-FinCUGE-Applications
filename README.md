@@ -42,7 +42,7 @@
 
 <div align=center><img src="http://125.74.158.86:2336/image/4.jpg" align="middle" width = "600"></div>
 
-目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至ypgeng@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
+目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至model@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
 ## 三 、大规模中文金融领域预训练语言模型BBT-FinT5
 
